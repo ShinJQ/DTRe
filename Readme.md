@@ -27,30 +27,23 @@ Additionally, we  are preparing to provide the trained checkpoint models for our
 ### MSR-VTT
 
 ```jsx
-#For Training
 sh run_msrvtt.sh
-
-#For Evaluation
-
-```
-
-### MSVD
-
-```jsx
-#For Training
-
-#For Evaluation
 
 ```
 
 ### LSMDC
 
 ```jsx
-#For Training
+sh run_lsmdc.sh
+```
 
-#For Evaluation
+### MSVD
+
+```jsx
+sh run_msvd.sh
 
 ```
+
 
 ## Experimental Results
 
